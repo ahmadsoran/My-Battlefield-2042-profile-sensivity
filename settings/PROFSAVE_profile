@@ -1791,8 +1791,8 @@ GstInput.LeanHold 0
 GstInput.LeaningEnabled 0
 GstInput.LeaningSensitivity 0.500000
 GstInput.MouseRawInput 1
-GstInput.MouseSensitivity 0.030000
-GstInput.MouseSensitivityVehicle 0.135000
+GstInput.MouseSensitivity 0.025000
+GstInput.MouseSensitivityVehicle 0.100000
 GstInput.OptionAirplanePilotControl 1
 GstInput.OptionHelicopterAssist 0
 GstInput.PcPadLayout 0
@@ -1858,7 +1858,7 @@ GstInput.SprintVaultOver 0
 GstInput.StickAimingAccelerationAmount 0.500000
 GstInput.StickAimingAccelerationAmountVehicle 0.500000
 GstInput.UniformSoldierAiming 1
-GstInput.UniformSoldierAimingCoefficient 1.330000
+GstInput.UniformSoldierAimingCoefficient 1.200000
 GstInput.UniformVehicleAiming 1
 GstInput.UniformVehicleAimingCoefficient 1.330000
 GstInput.VehicleAimRelativeControl 1
